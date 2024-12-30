@@ -124,7 +124,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Render dynamic content using EJS templates.  
      - **Reading:** [EJS Documentation](https://ejs.co/#docs)  
-     - **Video:** [EJS Crash Course](https://www.youtube.com/watch?v=zoSJ3bNGPp0)  
+     - **Video:** [EJS Crash Course](https://www.youtube.com/watch?v=Kah88N8W5rs)  
   2. Style the application using CSS.  
      - **Reading:** [CSS Basics](https://www.w3schools.com/css/)  
      - **Video:** [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)  
@@ -140,10 +140,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Deploy the application to a platform like Heroku.  
      - **Reading:** [Heroku Deployment Guide](https://devcenter.heroku.com/articles/deploying-nodejs)  
-     - **Video:** [Deploying Node.js Apps](https://www.youtube.com/watch?v=SbdUUu2DpQc)  
+     - **Video:** [Deploying Node.js Apps](https://www.youtube.com/watch?v=IeM1PGqmJT4)  
   2. Test the application for bugs and optimize performance.  
      - **Reading:** [Testing Web Applications](https://testing-library.com/docs/)  
-     - **Video:** [Testing Node.js Apps](https://www.youtube.com/watch?v=NNi7p1v0HUo)  
+     - **Video:** [Testing Node.js Apps](https://www.youtube.com/watch?v=FKnzS_icp20)  
 
 - **Deliverables:**  
   - Fully deployed MyLibrary application accessible via a public URL.  
