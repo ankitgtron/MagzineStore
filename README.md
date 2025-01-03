@@ -1,10 +1,10 @@
 
 ---
 
-## **Project Name:** MyLibrary  
+## **Project Name:** MagzineStore  
 
 **Description:**  
-MyLibrary is a full-stack library management application built with Node.js, Express, and MongoDB. This project introduces users to backend development, database integration, and professional website styling. By the end of this project, participants will have a complete understanding of creating and deploying a full-stack web application.  
+MagzineStore is a full-stack library management application built with Node.js, Express, and MongoDB. This project introduces users to backend development, database integration, and professional website styling. By the end of this project, participants will have a complete understanding of creating and deploying a full-stack web application.  
 
 ---
 
@@ -57,7 +57,7 @@ To provide a hands-on learning experience in full-stack web development by build
 ---
 
 ### **Workflow Overview**  
-The MyLibrary application allows users to add, edit, view, and delete books and authors. It includes a simple, professional design and is connected to a MongoDB database for dynamic data handling. The project workflow incorporates backend development, database integration, and frontend styling.   
+The MagzineStore application allows users to add, edit, view, and delete books and authors. It includes a simple, professional design and is connected to a MongoDB database for dynamic data handling. The project workflow incorporates backend development, database integration, and frontend styling.   
 
 ---
 
@@ -146,7 +146,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Testing Node.js Apps](https://www.youtube.com/watch?v=FKnzS_icp20)  
 
 - **Deliverables:**  
-  - Fully deployed MyLibrary application accessible via a public URL.  
+  - Fully deployed MagzineStore application accessible via a public URL.  
 
 ---
 
@@ -168,6 +168,6 @@ This project is structured to ensure a systematic and incremental development pr
 4. [EJS Documentation](https://ejs.co/#docs)  
 5. [RESTful API Design Guide](https://restfulapi.net/)  
 6. [CSS Documentation](https://www.w3schools.com/css/)  
-7. [YouTube: MyLibrary Tutorial](https://www.youtube.com/watch?v=XlvsJLer_No&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=1)  
+7. [YouTube: MagzineStore Tutorial](https://www.youtube.com/watch?v=XlvsJLer_No&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=1)  
 
 --- 
