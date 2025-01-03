@@ -55,11 +55,7 @@ To provide a hands-on learning experience in full-stack web development by build
 
 ### **Workflow Overview**  
 The MagzineStore application allows users to add, edit, view, and delete magazines and publishers. It includes a simple, professional design and is connected to a MongoDB database for dynamic data handling. The project workflow incorporates backend development, database integration, and frontend styling.   
-
----
-
-### **Flowchart**  
-![Flowchart Placeholder](https://via.placeholder.com/800x400.png?text=Flowchart+Placeholder)  
+ 
 
 ---
 
