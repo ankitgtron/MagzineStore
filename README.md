@@ -1,17 +1,14 @@
-
----
-
-## **Project Name:** MagzineStore  
+### **Project Name:** MagzineStore  
 
 **Description:**  
-MagzineStore is a full-stack library management application built with Node.js, Express, and MongoDB. This project introduces users to backend development, database integration, and professional website styling. By the end of this project, participants will have a complete understanding of creating and deploying a full-stack web application.  
+MagzineStore is a full-stack magazine management application built with Node.js, Express, and MongoDB. This project introduces users to backend development, database integration, and professional website styling. By the end of this project, participants will have a complete understanding of creating and deploying a full-stack web application for managing magazines.  
 
 ---
 
 ### **Mission and Objectives**  
 
 #### **Mission:**  
-To provide a hands-on learning experience in full-stack web development by building a functional library application with professional design and robust backend features.  
+To provide a hands-on learning experience in full-stack web development by building a functional magazine management application with professional design and robust backend features.  
 
 #### **Objectives:**  
 1. **Backend Development:**  
@@ -20,7 +17,7 @@ To provide a hands-on learning experience in full-stack web development by build
 
 2. **Database Integration:**  
    - Connect the application to MongoDB for dynamic data storage.  
-   - Perform CRUD operations on book and author data.  
+   - Perform CRUD operations on magazine and publisher data.  
 
 3. **Frontend Integration:**  
    - Style the application using modern techniques to ensure a professional look.  
@@ -35,7 +32,7 @@ To provide a hands-on learning experience in full-stack web development by build
 #### **Frontend:**  
 1. **EJS (Embedded JavaScript):**  
    - **Why?:** Simplifies dynamic HTML rendering.  
-   - **Use Case:** Renders library items dynamically based on user actions.  
+   - **Use Case:** Renders magazine items dynamically based on user actions.  
 
 2. **CSS:**  
    - **Why?:** Provides a clean and responsive design for the application.  
@@ -48,16 +45,21 @@ To provide a hands-on learning experience in full-stack web development by build
 
 2. **Express.js:**  
    - **Why?:** Simplifies routing and middleware integration.  
-   - **Use Case:** Manages RESTful APIs for book and author management.  
+   - **Use Case:** Manages RESTful APIs for magazine and publisher management.  
 
 3. **MongoDB:**  
    - **Why?:** NoSQL database ideal for dynamic data storage.  
-   - **Use Case:** Stores book and author information.  
+   - **Use Case:** Stores magazine and publisher information.  
 
 ---
 
 ### **Workflow Overview**  
-The MagzineStore application allows users to add, edit, view, and delete books and authors. It includes a simple, professional design and is connected to a MongoDB database for dynamic data handling. The project workflow incorporates backend development, database integration, and frontend styling.   
+The MagzineStore application allows users to add, edit, view, and delete magazines and publishers. It includes a simple, professional design and is connected to a MongoDB database for dynamic data handling. The project workflow incorporates backend development, database integration, and frontend styling.   
+
+---
+
+### **Flowchart**  
+![Flowchart Placeholder](https://via.placeholder.com/800x400.png?text=Flowchart+Placeholder)  
 
 ---
 
@@ -87,13 +89,13 @@ This project is structured to ensure a systematic and incremental development pr
 ---
 
 #### **Week 2: Database Integration and Schema Design**  
-- **Goal:** Connect the application to MongoDB and design schemas for books and authors.  
+- **Goal:** Connect the application to MongoDB and design schemas for magazines and publishers.  
 
 - **Tasks:**  
   1. Configure MongoDB and connect it to the application.  
      - **Reading:** [MongoDB Installation Guide](https://www.mongodb.com/docs/manual/installation/)  
      - **Video:** [MongoDB Setup Tutorial](https://www.youtube.com/watch?v=J6mDkcqU_ZE&t=203s)  
-  2. Create schemas for book and author data using Mongoose.  
+  2. Create schemas for magazine and publisher data using Mongoose.  
      - **Reading:** [Mongoose Documentation](https://mongoosejs.com/docs/)  
      - **Video:** [Mongoose Models Tutorial](https://www.youtube.com/watch?v=DZBGEVgL2eE)  
 
@@ -103,10 +105,10 @@ This project is structured to ensure a systematic and incremental development pr
 ---
 
 #### **Week 3: RESTful API Development**  
-- **Goal:** Build APIs for managing book and author data.  
+- **Goal:** Build APIs for managing magazine and publisher data.  
 
 - **Tasks:**  
-  1. Create CRUD operations for books and authors.  
+  1. Create CRUD operations for magazines and publishers.  
      - **Reading:** [RESTful API Design](https://restfulapi.net/)  
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)  
   2. Test APIs using Postman.  
@@ -114,7 +116,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Postman Tutorial](https://www.youtube.com/watch?v=VywxIQ2ZXw4)  
 
 - **Deliverables:**  
-  - Fully functional RESTful APIs for book and author management.  
+  - Fully functional RESTful APIs for magazine and publisher management.  
 
 ---
 
@@ -152,12 +154,9 @@ This project is structured to ensure a systematic and incremental development pr
 
 ### **Screenshots**  
 
-![Screenshot (508)](https://github.com/user-attachments/assets/3bb93aec-a354-46b5-bcdc-efe301eafafe)
-![Screenshot (503)](https://github.com/user-attachments/assets/c9dfd464-2a5a-4c2a-8f70-d12447c5e47d)
-![Screenshot (504)](https://github.com/user-attachments/assets/1ae4adaf-5014-45c7-bb4e-b640e7d71ff4)
-![Screenshot (505)](https://github.com/user-attachments/assets/175f5dc1-3b7c-4f98-9ec3-6776a1dd2697)
-![Screenshot (506)](https://github.com/user-attachments/assets/941a896a-0bf8-4da6-8a8b-1e41c42e45c5)
-![Screenshot (507)](https://github.com/user-attachments/assets/8e3a09a6-a3e1-4d6a-b237-c727f5637b4c)
+![Screenshot (508)](https://github.com/user-attachments/assets/3bb93aec-a354-46b5-bcdc-efe301eafafe)  
+![Screenshot (503)](https://github.com/user-attachments/assets/c9dfd464-2a5a-4c2a-8f70-d12447c5e47d)  
+![Screenshot (504)](https://github.com/user-attachments/assets/1ae4adaf-5014-45c7-bb4e-b640e7d71ff4)  
 
 ---
 
